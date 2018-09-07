@@ -12,7 +12,7 @@ MPShare is the sharing iPad app that I created for my photobooth business. It re
 
 <p align="center">
     <img src="https://s3.amazonaws.com/griswold-github/MPShare-main.jpg" alt="Share Main" width="50%">
-    <img src="https://s3.amazonaws.com/griswold-github/MPShare-text.jpg" alt="Texting View" height="50%">
+    <img src="https://s3.amazonaws.com/griswold-github/MPShare-text.jpg" alt="Texting View" width="50%">
 </p>
 
 ### Project Link
